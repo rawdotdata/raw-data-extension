@@ -1,6 +1,6 @@
 # raw.data 
 
-[![Chrome Extension](https://chromewebstore.google.com/detail/rawdata/bjcgagcacdcnijgdlbnbjbndioiajioi)](https://github.com/rawdotdata/raw-data-extension)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/rawdata/bjcgagcacdcnijgdlbnbjbndioiajioi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-green?logo=node.js)](https://nodejs.org/)
 [![Claude](https://img.shields.io/badge/AI-Claude%20Sonnet%204.5-orange)](https://www.anthropic.com/)
